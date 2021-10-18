@@ -1,4 +1,6 @@
 <h1>Olá, seja bem-vindo(a)!</h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmouravarela)](https://github.com/lucasmouravarela/github-readme-stats)
+<p>Sou estudante de Desenvolvimento Front End do Ceará, Brasil.</p>
+<img src="https://github-readme-stats.vercel.app/api?username=lucasmouravarela&show_icons=true&locale=en" alt="lucasmouravarela" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmouravarela&show_icons=true&locale=pt-br&layout=compact" alt="lucasmouravarela" />
 
 
