@@ -1,4 +1,4 @@
-👋 Olá, eu sou Lucas!<br>
+👋 Olá, eu sou Lucas<br>
 🚀 Estudante de Desenvolvimento Frontend<br>
 🌏 Localização: Fortaleza, Brasil<br>
 💻Habilidades: HTML ~ CSS ~ JavaScript ~ Git<br>
